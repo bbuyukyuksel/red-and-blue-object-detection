@@ -3,6 +3,7 @@
 ## There is two option to get image and processing.
 * Give path of your image.
 * Capture image from your webcam
+
 **	if you want to use option 2
 **	Firstly, you need to install matlab webcam support from packages.
 
