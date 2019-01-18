@@ -4,8 +4,8 @@
 * Give path of your image.
 * Capture image from your webcam
 
-**	if you want to use option 2
-**	Firstly, you need to install matlab webcam support from packages.
+**if you want to use option 2
+**Firstly, you need to install matlab webcam support from packages.
 
 ## Then have enjoy to detect location of RED or / and BLUE objects.
 
